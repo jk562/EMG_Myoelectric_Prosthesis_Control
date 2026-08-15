@@ -91,6 +91,11 @@ Other `*finetuned_tmp*` checkpoints in `Test9/` are user-generated from ad-hoc f
 - The RAW TEST checkpoint has not yet been re-run under the seeding fix.
 - Hand-pose / reach-trajectory visualizations use generic anthropometric finger-segment lengths and an unverified channel-to-joint mapping — illustrative geometry, not measured physical values.
 
-## Data
+### Ninapro DB2 (main benchmark)
 
-Ninapro DB2 `.mat` files are registered/downloaded from https://ninapro.hevs.ch. `Test9/data` is a symlink to `Test6/data`. RAW TEST files live in `RAW TEST/`.
+1. Register and download **DB2** at [ninapro.hevs.ch](https://ninapro.hevs.ch) (free, academic use).
+2. You need the per-subject `.mat` exercise files (e.g. `S1_E1_A1.mat`, `S2_E1_A1.mat`, …) — 12-channel EMG @ 2 kHz + 22-channel CyberGlove kinematics.
+3. Place them in **`Test6/data/`**. `Test7/data`, `Test8/data`, and `Test9/data` are all symlinks to this one folder, so downloading once covers every stage.
+4. This project used 19 subjects (S13 and S22 are the two examined in detail throughout the report/notebook) — any subset of DB2 subjects will work for a smoke test; the full 19 for reproducing the reported ablations.
+
+
