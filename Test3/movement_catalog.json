@@ -1,0 +1,202 @@
+{
+  "Holding a cup": {
+    "movement_id": 34,
+    "evidence_mcp_degrees": {
+      "Thumb": -4.490286747614543,
+      "Index": 41.85158920288086,
+      "Middle": 56.93621063232422,
+      "Ring": 50.09488169352213,
+      "Little": 52.779492696126304
+    },
+    "full_signature_degrees": {
+      "ThumbRot": 60.24902598063151,
+      "ThumbMPJ": -4.490286747614543,
+      "ThumbIJ": 10.60888401667277,
+      "ThumbAbd": -0.3081693450609843,
+      "IndexMPJ": 41.85158920288086,
+      "IndexPIJ": 37.31544176737467,
+      "IndexDIJ": 8.645393053690592,
+      "IndexAbd": 58.41411336263021,
+      "MiddleMPJ": 56.93621063232422,
+      "MiddlePIJ": -2.534609874089559,
+      "MiddleDIJ": 561.7973429361979,
+      "RingMPJ": 50.09488169352213,
+      "RingPIJ": -7.362816284100215,
+      "RingDIJ": 7.770560582478841,
+      "RingAbd": 47.56282043457031,
+      "LittleMPJ": 52.779492696126304,
+      "LittlePIJ": 6.391281684239705,
+      "LittleDIJ": 14.3298978805542,
+      "LittleAbd": 21.264926602443058,
+      "WristPitch": -3.4699973662694297,
+      "WristYaw": 26.024864832560223
+    },
+    "source_subjects": [
+      13,
+      10,
+      16
+    ],
+    "source_exercise": "E2",
+    "confidence": "inferred from kinematic pattern, not verified against an official name list"
+  },
+  "Holding a pen": {
+    "movement_id": 31,
+    "evidence_mcp_degrees": {
+      "Thumb": -4.008189996083577,
+      "Index": 41.0920155843099,
+      "Middle": 35.8040968577067,
+      "Ring": 28.16002909342448,
+      "Little": 24.63092549641927
+    },
+    "full_signature_degrees": {
+      "ThumbRot": 73.84851328531902,
+      "ThumbMPJ": -4.008189996083577,
+      "ThumbIJ": 16.405460039774578,
+      "ThumbAbd": -7.173425833384196,
+      "IndexMPJ": 41.0920155843099,
+      "IndexPIJ": 38.10962804158529,
+      "IndexDIJ": 3.1094627380371094,
+      "IndexAbd": 39.836154301961265,
+      "MiddleMPJ": 35.8040968577067,
+      "MiddlePIJ": -4.502334356307983,
+      "MiddleDIJ": 639.9283650716146,
+      "RingMPJ": 28.16002909342448,
+      "RingPIJ": -10.364191373189291,
+      "RingDIJ": 6.494308153788249,
+      "RingAbd": 18.29282370209694,
+      "LittleMPJ": 24.63092549641927,
+      "LittlePIJ": -1.2043188412984211,
+      "LittleDIJ": 13.688429196675619,
+      "LittleAbd": 33.62515830993652,
+      "WristPitch": -5.426260670026143,
+      "WristYaw": 22.05031903584798
+    },
+    "source_subjects": [
+      13,
+      10,
+      16
+    ],
+    "source_exercise": "E2",
+    "confidence": "inferred from kinematic pattern, not verified against an official name list"
+  },
+  "Turning on a switch": {
+    "movement_id": 37,
+    "evidence_mcp_degrees": {
+      "Thumb": 0.18544427553812662,
+      "Index": 5.167830467224121,
+      "Middle": 42.31753158569336,
+      "Ring": 28.567839940388996,
+      "Little": 18.390911102294922
+    },
+    "full_signature_degrees": {
+      "ThumbRot": 67.37283833821614,
+      "ThumbMPJ": 0.18544427553812662,
+      "ThumbIJ": 18.264551639556885,
+      "ThumbAbd": -13.214772542317709,
+      "IndexMPJ": 5.167830467224121,
+      "IndexPIJ": 33.3024648030599,
+      "IndexDIJ": 12.329578479131063,
+      "IndexAbd": 2.260780652364095,
+      "MiddleMPJ": 42.31753158569336,
+      "MiddlePIJ": -4.177216351032257,
+      "MiddleDIJ": 167.97912724812826,
+      "RingMPJ": 28.567839940388996,
+      "RingPIJ": -10.526742299397787,
+      "RingDIJ": -2.9935077329476676,
+      "RingAbd": 13.7586590051651,
+      "LittleMPJ": 18.390911102294922,
+      "LittlePIJ": 0.472422460714976,
+      "LittleDIJ": 7.94119914372762,
+      "LittleAbd": 14.86828581492106,
+      "WristPitch": 11.4745934009552,
+      "WristYaw": 13.67189852396647
+    },
+    "source_subjects": [
+      13,
+      10,
+      16
+    ],
+    "source_exercise": "E2",
+    "confidence": "inferred from kinematic pattern, not verified against an official name list"
+  },
+  "Unlocking a door (key/lateral grip)": {
+    "movement_id": 23,
+    "evidence_mcp_degrees": {
+      "Thumb": -16.672726313273113,
+      "Index": 19.302241961161297,
+      "Middle": 17.970255692799885,
+      "Ring": 19.43504047393799,
+      "Little": 12.350953737894693
+    },
+    "full_signature_degrees": {
+      "ThumbRot": 82.77054595947266,
+      "ThumbMPJ": -16.672726313273113,
+      "ThumbIJ": 9.637959162394205,
+      "ThumbAbd": -13.250313440958658,
+      "IndexMPJ": 19.302241961161297,
+      "IndexPIJ": 32.61737187703451,
+      "IndexDIJ": 2.963133970896403,
+      "IndexAbd": 18.82656129201253,
+      "MiddleMPJ": 17.970255692799885,
+      "MiddlePIJ": -5.069726268450419,
+      "MiddleDIJ": 515.4022827148438,
+      "RingMPJ": 19.43504047393799,
+      "RingPIJ": -13.29676087697347,
+      "RingDIJ": 6.639430681864421,
+      "RingAbd": 8.657379786173502,
+      "LittleMPJ": 12.350953737894693,
+      "LittlePIJ": -7.620534261067708,
+      "LittleDIJ": 12.95398203531901,
+      "LittleAbd": 14.291264851888021,
+      "WristPitch": 18.22941780090332,
+      "WristYaw": 21.186696370442707
+    },
+    "source_subjects": [
+      13,
+      10,
+      16
+    ],
+    "source_exercise": "E2",
+    "confidence": "inferred from kinematic pattern, not verified against an official name list"
+  },
+  "Picking up a box": {
+    "movement_id": 40,
+    "evidence_mcp_degrees": {
+      "Thumb": -4.658513049284617,
+      "Index": 8.9015261332194,
+      "Middle": 83.84553527832031,
+      "Ring": 72.96457417805989,
+      "Little": 70.2991205851237
+    },
+    "full_signature_degrees": {
+      "ThumbRot": 46.320273081461586,
+      "ThumbMPJ": -4.658513049284617,
+      "ThumbIJ": 0.48933593432108563,
+      "ThumbAbd": 4.493607719739278,
+      "IndexMPJ": 8.9015261332194,
+      "IndexPIJ": 8.511895497639975,
+      "IndexDIJ": 6.919757684071858,
+      "IndexAbd": 51.91285705566406,
+      "MiddleMPJ": 83.84553527832031,
+      "MiddlePIJ": -3.717313771446546,
+      "MiddleDIJ": -136.84801228841147,
+      "RingMPJ": 72.96457417805989,
+      "RingPIJ": -15.556005954742432,
+      "RingDIJ": -2.0941072636439153,
+      "RingAbd": 72.7117436726888,
+      "LittleMPJ": 70.2991205851237,
+      "LittlePIJ": 10.681337674458822,
+      "LittleDIJ": 13.306792577107748,
+      "LittleAbd": -3.1058653195699057,
+      "WristPitch": 6.806683937708537,
+      "WristYaw": 44.12128893534342
+    },
+    "source_subjects": [
+      13,
+      10,
+      16
+    ],
+    "source_exercise": "E2",
+    "confidence": "inferred from kinematic pattern, not verified against an official name list"
+  }
+}

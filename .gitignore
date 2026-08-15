@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Large/raw EMG datasets
+RAW TEST/
+Raw data/
+Subject Data/
+Test6/data/
+DS5_Cross-User/EMGEPN612.pkl
+
+# Local databases
+*.db
+
+# Large trained model files
+*.pt
+*.pth
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Large/raw EMG datasets
+RAW TEST/
+Raw data/
+Subject Data/
+Test6/data/
+DS5_Cross-User/EMGEPN612.pkl
+
+# Local databases
+*.db
+
+# Large trained model files
+*.pt
+*.pth
+
+# Local Claude settings
+.claude/settings.local.json
